@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/call_center"
+        android:title="Call Center"
+        app:showAsAction="never"/>
+    <item android:id="@+id/sms_center"
+        android:title="Sms Center"
+        app:showAsAction="never"/>
+    <item android:id="@+id/lokasi"
+        android:title="Lokasi"
+        app:showAsAction="never"/>
+    <item android:id="@+id/update_pass"
+        android:title="Update Password"
+        app:showAsAction="never"/>
+</menu>
